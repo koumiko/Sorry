@@ -24,7 +24,7 @@ namespace NagarryFrameworkQueryBackup
         private String mReturnType = "";
         private String mMaxKB = "4096";
 
-        private const String PRG_TYPE_01 = "SQL";
+        private const String PRG_TYPE_01 = "MenTalCrush";
         private const String PRG_TYPE_02 = "Oracle Function";
         private const String PRG_TYPE_03 = "Java Bean";
 
