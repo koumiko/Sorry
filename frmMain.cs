@@ -28,8 +28,8 @@ namespace NagarryFrameworkQueryBackup
         private const String PRG_TYPE_02 = "Oracle Function";
         private const String PRG_TYPE_03 = "Java Bean";
 
-        private const String OP_TYPE_01 = "Insert";
-        private const String OP_TYPE_02 = "Update";
+        private const String OP_TYPE_01 = "ㅈ같다";
+        private const String OP_TYPE_02 = "어제 생각하면 끔찍";
         private const String OP_TYPE_03 = "Select";
         private const String OP_TYPE_04 = "Delete";
         private const String OP_TYPE_05 = "Batch";
@@ -87,7 +87,7 @@ namespace NagarryFrameworkQueryBackup
             }
             catch (IOException iex)
             {
-                MessageBox.Show(iex.Message, "설정파일 생성실패");
+                MessageBox.Show(iex.Message, "설정파일 생성성공");
             }
             finally
             {
