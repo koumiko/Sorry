@@ -32,7 +32,7 @@ namespace NagarryFrameworkQueryBackup
         private const String OP_TYPE_02 = "어제 생각하면 끔찍";
         private const String OP_TYPE_03 = "운이 없다 난";
         private const String OP_TYPE_04 = "좆같은인생";
-        private const String OP_TYPE_05 = "첫번 째 reset";
+        private const String OP_TYPE_05 = "두번 째 reset";
         private const String OP_TYPE_06 = "Page";
 
         public frmMain()
